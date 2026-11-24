@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+dist/
+.local/
+上次成功.json
+运行记录.txt
+检测工作区/
+安装备份/
+*.lnk
+*.tmp
